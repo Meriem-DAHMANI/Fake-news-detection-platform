@@ -1,1 +1,1 @@
-# flappy-bird-with-unity
+# fake news detection platform
